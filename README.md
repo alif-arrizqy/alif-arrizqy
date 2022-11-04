@@ -1,16 +1,19 @@
-### Hi there 👋
+<p align="center">
+  <a href="https://twitter.com/zuramai">
+    <img src="https://img.shields.io/twitter/follow/asawgi?style=for-the-badge&label=%40zuramai&logo=twitter&logoColor=00AEFF&labelColor=black&color=7fff00">
+  </a>
+  <a href="https://www.linkedin.com/in/alif-ayatulloh-arrizqy/">
+    <img src="https://img.shields.io/badge/-alif%20ayatulloh%20arrizqy-blue?style=for-the-badge&logo=Linkedin&logoColor=00AEFF&labelColor=black&color=black">
+  </a>
+  <a href="mailto:alif.arrizqy20@gmail.com">
+    <img src="https://img.shields.io/badge/alif.arrizqy20@gmail.com-0078D4?style=for-the-badge&logo=Microsoft-Outlook&logoColor=00AEFF&labelColor=black&color=black">
+  </a>
+</p>
 
-<!--
-**alif-arrizqy/alif-arrizqy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://github.com/alif-arrizqy">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alif-arrizqy&count_private=true&show_icons=true&theme=chartreuse-dark" />
+</a>
+<a href="https://github.com/alif-arrizqy">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alif-arrizqy&layout=compact&theme=chartreuse-dark&langs_count=8" />
+</a>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
